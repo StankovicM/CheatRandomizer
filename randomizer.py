@@ -122,6 +122,7 @@ class Exec(Thread):
         passed_time = 0
         last_time = time.time()
         last_cheat = ''
+        cheat_counter = 0
         while True:
             now = time.time()
             passed_time += now - last_time
@@ -131,6 +132,9 @@ class Exec(Thread):
                 cheat = random.choice(cheats.keys()).lower()
                 total_cost += int(cheats[cheat][1])
                 total_cheats += 1
+                cheat_counter += 1
+                if cheat_counter >= 60:
+                    print('Total amount of duckets used so far would be {0}.'.format(total_cost))
 
                 if not stacking:
                     for i in range(len(last_cheat)):
@@ -145,7 +149,9 @@ class Exec(Thread):
                     ReleaseKey(VKEYS[cheat[i]])
                     time.sleep(delay)
 
-                print('{0: <30} activated! {1}.'.format(cheat.upper(), cheats[cheat][0]))
+                print('{0} activated! {1}.'.format(cheat.upper(), cheats[cheat][0]))
+                with open('latestcheat.txt', 'w') as f:
+                    f.write(cheat.upper() + ' - ' + cheats[cheat][0])
                 last_cheat = cheat
                 passed_time = 0
             else:
@@ -191,4 +197,4 @@ if __name__ == '__main__':
 
     print('Script stopped.')
     print('Total number of cheats used is {0}.'.format(total_cheats))
-    print('Total cost of the cheats used is {0} duckets.'.format(total_cost))
+    print('Total cost of the cheats used would be {0} duckets.'.format(total_cost))
