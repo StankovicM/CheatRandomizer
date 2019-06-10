@@ -42,13 +42,13 @@ KANGAROO;Mega Jump;5000
 ONLYHOMIESALLOWED;Gang Members Everywhere;15000
 AEDUWNV;CJ Never Becomes Hungry;1000
 FOURWHEELFUN;Spawn Quad;2000
-BAGUVIX;Semi-Infinite Health;
+BAGUVIX;Semi-Infinite Health;1000
 SJMAHPE;Recruit Anyone (9mm);5000
 UZUMYMW;Weapon Set 3, Nutter Tools;5000
 SCOTTISHSUMMER;Thunderstorm;10000
-EVERYONEISPOOR;Traffic is Cheap Cars;
+EVERYONEISPOOR;Traffic is Cheap Cars;10000
 LXGIWYL;Weapon Set 1, Thug's Tools;5000
-CPKTNWT;Blow Up All Cars;
+CPKTNWT;Blow Up All Cars;75000
 FULLCLIP;Infinite Ammo, No Reload;1000
 STINGLIKEABEE;Super Punch;5000
 ITSALLBULL;Spawn Dozer;10000
@@ -81,10 +81,10 @@ CRAZYTOWN;Funhouse Theme;2000
 OSRBLHH;Raise Wanted Level;10000
 LLQPFBN;Pink traffic;1000
 AIYPWZQP;Have Parachute;10000
-TURNUPTHEHEAT;Increase Wanted Level Two Stars;
+TURNUPTHEHEAT;Increase Wanted Level Two Stars;10000
 GOODBYECRUELWORLD;Suicide;100000
 CWJXUOC;Sandstorm;5000
-LIFESABEACH;Beach Party;
+LIFESABEACH;Beach Party;2000
 CELEBRITYSTATUS;Spawn Stretch;5000
 ALLCARSGOBOOM;Destroy All Cars;75000
 VKYPQCF;Max Stamina;1000

@@ -110,7 +110,6 @@ stacking = True
 cheats = dict()
 total_cost = 0
 total_cheats = 0
-costless = 0
 
 class Exec(Thread):
 
@@ -118,7 +117,7 @@ class Exec(Thread):
         Thread.__init__(self)
 
     def run(self):
-        global total_cheats, total_cost, costless
+        global total_cheats, total_cost
         print('Starting the script, press ESC to stop it.')
         passed_time = 0
         last_time = time.time()
@@ -130,11 +129,8 @@ class Exec(Thread):
 
             if passed_time >= cheat_time:
                 cheat = random.choice(cheats.keys()).lower()
-                if cheats[cheat][1] > 0:
-                    total_cost += int(cheats[cheat][1])
-                    total_cheats += 1
-                else:
-                    costless += 1
+                total_cost += int(cheats[cheat][1])
+                total_cheats += 1
 
                 if not stacking:
                     for i in range(len(last_cheat)):
@@ -149,7 +145,7 @@ class Exec(Thread):
                     ReleaseKey(VKEYS[cheat[i]])
                     time.sleep(delay)
 
-                print('{0} activated! {1}.'.format(cheat.upper(), cheats[cheat][0]))
+                print('{0: <30} activated! {1}.'.format(cheat.upper(), cheats[cheat][0]))
                 last_cheat = cheat
                 passed_time = 0
             else:
@@ -194,5 +190,5 @@ if __name__ == '__main__':
     exec_thread.join()
 
     print('Script stopped.')
-    print('Total number of cheats used is {0}. {1} of them aren\'t in the chat cheat list.'.format(total_cheats + costless, costless))
+    print('Total number of cheats used is {0}.'.format(total_cheats))
     print('Total cost of the cheats used is {0} duckets.'.format(total_cost))
