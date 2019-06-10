@@ -116,9 +116,6 @@ class Exec(Thread):
 
     def __init__(self):
         Thread.__init__(self)
-        self.paused = False
-        self.stopevent = Event()
-        self.stopevent.clear()
 
     def run(self):
         global total_cheats, total_cost, costless
@@ -126,11 +123,10 @@ class Exec(Thread):
         passed_time = 0
         last_time = time.time()
         last_cheat = ''
-        while not self.stopevent.isSet():
+        while True:
             now = time.time()
             passed_time += now - last_time
             last_time = now
-            print(passed_time)
 
             if passed_time >= cheat_time:
                 cheat = random.choice(cheats.keys()).lower()
