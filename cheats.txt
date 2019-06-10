@@ -1,0 +1,95 @@
+KVGYZQK;Skinny;1000
+CIKGCGX;Beach Party Theme;2000
+ANOSEONGLASS;Adrenaline Mode;30000
+PROFESSIONALSKIT;Weapon Set 2, Professional Tools;5000
+BTCDBCB;Fat;5000
+LPNQMAS;Increase Car Speed;5000
+FLYINGTOSTUNT;Spawn Stunt Plane;2000
+BUBBLECARS;Cars Float Away When Hit;5000
+AUIFRVQS;Rainy Weather;10000
+KGGGDKP;Spawn Vortex Hovercraft;5000
+AMOMHRER;Spawn Tanker Truck;15000
+EVERYONEISRICH;Traffic is Fast Cars;2000
+TOODAMNHOT;Very Sunny Weather;5000
+YLTEICZ;Aggressive Drivers;10000
+OLDSPEEDDEMON;Spawn Bloodring Banger;5000
+ALNSFMZO;Overcast Weather;5000
+PROFESSIONALKILLER;Hitman In All Weapon Stats;1000
+BEKKNQV;Slut Magnet;2000
+ROCKETMAN;Have Jetpack;1000
+PLEASANTLYWARM;Sunny Weather;5000
+NINJATOWN;Ninja Theme;2000
+AJLOJYQY;Peds Attack Each Other, Get Golf Club;20000
+JCNRUAD;Smash n' Boom;1000
+SLOWITDOWN;Slower Gameplay;30000
+JUMPJET;Spawn Hydra;5000
+BUFFMEUP;Max Muscle;5000
+SPEEDFREAK;All Cars Have Nitro;1000
+ZEIIVG;All green lights;5000
+HELLOLADIES;Max Sex Appeal;1000
+TRUEGRIME;Spawn Trashmaster;10000
+FLYINGFISH;Boats fly;5000
+STICKLIKEGLUE;Perfect Handling;20000
+CFVFGMJ;Foggy Weather;5000
+SPEEDITUP;Faster Gameplay;20000
+STATEOFEMERGENCY;Riot Mode;20000
+VPJTQWV;Spawn Racecar;5000
+FVTMNBZ;Traffic is Country Vehicles;5000
+WORSHIPME;Max Respect;1000
+BMTPWHR;Country Vehicles and Peds, Get Born 2 Truck Outfit;2000
+CHITTYCHITTYBANGBANG;Cars Fly;10000
+KANGAROO;Mega Jump;5000
+ONLYHOMIESALLOWED;Gang Members Everywhere;15000
+AEDUWNV;CJ Never Becomes Hungry;1000
+FOURWHEELFUN;Spawn Quad;2000
+BAGUVIX;Semi-Infinite Health;
+SJMAHPE;Recruit Anyone (9mm);5000
+UZUMYMW;Weapon Set 3, Nutter Tools;5000
+SCOTTISHSUMMER;Thunderstorm;10000
+EVERYONEISPOOR;Traffic is Cheap Cars;
+LXGIWYL;Weapon Set 1, Thug's Tools;5000
+CPKTNWT;Blow Up All Cars;
+FULLCLIP;Infinite Ammo, No Reload;1000
+STINGLIKEABEE;Super Punch;5000
+ITSALLBULL;Spawn Dozer;10000
+BLUESUEDESHOES;Elvis is Everywhere;2000
+IOWDLAC;Black traffic;1000
+GHOSTTOWN;Reduced Traffic;25000
+OUIQDMW;Free Aim While Driving;25000
+TURNDOWNTHEHEAT;Clear Wanted Level;1000
+AEZAKMI;Never Wanted;1000
+BAGOWPG;Have a bounty on your head;50000
+FOOOXFT;Everyone is armed;10000
+JQNTDMH;Spawn Rancher;5000
+MONSTERMASH;Spawn Monster;5000
+ROCKETMAYHEM;Recruit Anyone (Rockets);5000
+BGLUAWML;Peds Attack You With Weapons, Rocket Launcher;50000
+BGKGTJH;All Traffic Vehicles are Junk Cars;10000
+OFVIAC;Orange Sky 21:00;10000
+MROEMZH;Fast Gang Member Spawns;2000
+WHERESTHEFUNERAL;Spawn Romero;5000
+CVWKXAM;Infinite Oxygen;1000
+RZHSUEW;Spawn Caddy;2000
+OHDUDE;Spawn Hunter;10000
+YSOHNUL;Faster Clock;20000
+VROCKPOKEY;Spawn Racecar;5000
+AIWPRTON;Spawn Rhino;25000
+BRINGITON;Six Star Wanted Level;75000
+CJPHONEHOME;Huge Bunny Hop;1000
+NIGHTPROWLER;Always Midnight;10000
+CRAZYTOWN;Funhouse Theme;2000
+OSRBLHH;Raise Wanted Level;10000
+LLQPFBN;Pink traffic;1000
+AIYPWZQP;Have Parachute;10000
+TURNUPTHEHEAT;Increase Wanted Level Two Stars;
+GOODBYECRUELWORLD;Suicide;100000
+CWJXUOC;Sandstorm;5000
+LIFESABEACH;Beach Party;
+CELEBRITYSTATUS;Spawn Stretch;5000
+ALLCARSGOBOOM;Destroy All Cars;75000
+VKYPQCF;Max Stamina;1000
+BIFBUZZ;Gangs Control the Streets;10000
+WHEELSONLYPLEASE;Invisible car;20000
+CAINEMVHZC;Infinite Health (Doesn't protect CJ from explosions, drowning, falling, or gunfire from police helicopters);1000
+NATURALTALENT;Max All Vehicle Skill Stats;1000
+HESOYAM;Health, Armor, $250k;1000
