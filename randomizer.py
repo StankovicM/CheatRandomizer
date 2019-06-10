@@ -104,7 +104,7 @@ def ReleaseKey(hexKeyCode):
                             dwFlags=KEYEVENTF_KEYUP))
     user32.SendInput(1, ctypes.byref(x), ctypes.sizeof(x))
 
-delay = 0.04
+delay = 0.05
 cheat_time = 10
 stacking = True
 cheats = dict()
